@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF1_93610223_SERVICIOS_GASTRONOMICOS/](https://ecored-sena.github.io/CF1_93610223_SERVICIOS_GASTRONOMICOS/)
 
 #
 

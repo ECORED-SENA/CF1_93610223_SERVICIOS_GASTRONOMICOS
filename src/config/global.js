@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'El servicio gastronómico implica ofrecer alimentos de manera higiénica y eficiente, con personal capacitado y herramientas adecuadas. La gastronomía ha evolucionado con nuevas técnicas y tendencias como la gastronomía molecular, el slow food y el uso de tecnología. Los restaurantes buscan combinar calidad, ambiente y servicio para satisfacer al cliente y mejorar los procesos operativos. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],

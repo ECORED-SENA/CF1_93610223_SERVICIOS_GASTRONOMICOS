@@ -133,9 +133,52 @@
 .tabs-c__tab--active span
   font-weight: bold
 
+.cont_intro, .cont_intro *
+  position: relative
+.cont_intro:before
+  position: absolute
+  content: ''
+  width: 115%
+  height: calc(100% + 48px)
+  left: -8%
+  bottom: -48px
+  background: url(../assets/curso/intro4.png)
+  background-size: 100% 100%
+
 @media screen and (max-width: 992px)
   .banner-principal .tarjeta, .cont_intro:before
     background-size: cover !important
   .cont_decorativo:before
     height: 100%
     top: 0
+
+/*******************Tema 1*************/
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #A200FF
+  opacity: 1
+
+.slyder-a__bullets__item
+  background-color: #FCC3B7
+  border-color: #FCC3B7
+
+.slyder-a__bullets__item--active
+  background-color: #FD5A37 !important
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-image: url(../assets/curso/tema1/arrow.svg)
+
+.cont_1_1, .cont_1_1 *
+  position: relative
+.cont_1_1:before
+  position: absolute
+  content: ''
+  width: 115%
+  height: 100%
+  left: -8%
+  top: 0
+  background: url(../assets/curso/tema1/2.jpg)
+  background-size: 100% 100%
+
+@media screen and (max-width: 992px)
+  .cont_1_1:before
+    background-size: cover !important
