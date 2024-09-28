@@ -1,4 +1,4 @@
-# **Conceptos generales servicios gastronómicos **
+# **Conceptos generales servicios gastronómicos**
 
 ## **Enlace GitHubPages**
 
