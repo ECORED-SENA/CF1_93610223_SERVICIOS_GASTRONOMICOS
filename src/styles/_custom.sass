@@ -126,6 +126,7 @@
 
 .tabs-c__content-item
   padding-top: 20px
+  background-color: #F9F7F4
 
 .tabs-c__header
   margin-bottom: 0
@@ -193,4 +194,80 @@
 
 @media screen and (max-width: 992px)
   .cont_1_1:before
+    background-size: cover !important
+
+/******************Tema 2******************/
+.cont_2_1
+  position: relative
+.cont_2_1:before
+  position: absolute
+  content: ''
+  width: 115%
+  height: 90%
+  top: 0
+  left: -8%
+  background: rgb(255,255,255)
+  background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(235,244,255,1) 25%, rgba(235,244,255,1) 75%, rgba(255,255,255,0) 100%)
+
+.cont_2_2, .cont_2_2 *
+  position: relative
+.cont_2_2:before
+  position: absolute
+  content: ''
+  width: 115%
+  height: 95%
+  top: 5%
+  left: -8%
+  background: rgb(255,255,255)
+  background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(235,244,255,1) 25%, rgba(235,244,255,1) 75%, rgba(255,255,255,0) 100%)
+
+.cont_2_3
+  background-color: #FFEACB
+  border-radius: 23px
+  cursor: pointer
+  transition: all .3s ease-in-out
+  &:hover
+    background-color: #D8E9FF
+    box-shadow: 0px 5px 25px rgba(0,0,0,.1)
+  img
+    max-width: 100px
+    display: inline
+  
+.cont_2_4
+  background-color: #FFF4E5
+  border-radius: 14px
+  img
+    max-width: 100px
+    display: inline
+  span
+    background-color: #FFCD80
+
+.cont_2_5, .cont_2_5 *
+  position: relative
+.cont_2_5:before
+  position: absolute
+  content: ''
+  width: 115%
+  height: 90%
+  left: -8%
+  top: 10%
+  background: url(../assets/curso/tema2/49.png)
+  background-size: 100% 100%
+
+.cont_2_6
+  background-color: #EBF4FF
+  border-radius: 14px
+  img
+    max-width: 100px
+    display: inline
+  span
+    background-color: #9EC9FF
+
+.tabs-a__tab
+  background-color: #FFEACB
+.tabs-a.color-acento-botones .tabs-a__tab__selected
+  color: #fff !important
+
+@media screen and (max-width: 992px)
+  .cont_2_5:before
     background-size: cover !important
