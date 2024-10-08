@@ -22,7 +22,7 @@
             figure
               img(src="@/assets/curso/intro3.svg")
           .col(style="place-self:center;")
-            p.mb-0 A lo largo de la historia, la gastronomía ha evolucionado, adaptándose a las demandas y preferencias de los consumidores. Innovaciones como la gastronomía molecular y el movimiento slow food reflejan un cambio hacia la utilización de ingredientes más saludables y la creación de experiencias culinarias únicas que conectan al comensal con la comida y el ambiente. 
+            p.mb-0 A lo largo de la historia, la gastronomía ha evolucionado, adaptándose a las demandas y preferencias de los consumidores. Innovaciones como la gastronomía molecular y el movimiento #[em slow food] reflejan un cambio hacia la utilización de ingredientes más saludables y la creación de experiencias culinarias únicas que conectan al comensal con la comida y el ambiente. 
       .col-lg-auto.d-none.d-lg-block(data-aos="fade-left")
         figure
           img(src="@/assets/curso/intro2.png")

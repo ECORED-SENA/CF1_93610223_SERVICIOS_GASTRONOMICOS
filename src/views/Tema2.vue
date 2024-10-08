@@ -173,7 +173,7 @@
                 img(src="@/assets/curso/tema2/19.png")
           .row.col-xl-11.m-auto(titulo="Movimiento <em>slow food</em>")
             .col-lg-7.mb-4.mb-lg-0
-              p Este movimiento surge en respuesta al fast food, destacando la importancia de los platos tradicionales, preparados con dedicación y tiempo, para apreciar mejor los sabores auténticos. 
+              p Este movimiento surge en respuesta al #[em fast food], destacando la importancia de los platos tradicionales, preparados con dedicación y tiempo, para apreciar mejor los sabores auténticos. 
             .col-lg-5
               figure.m-auto.col-8.col-md-7.col-lg-12
                 img(src="@/assets/curso/tema2/20.png")
@@ -207,7 +207,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/22.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La cocina wok utiliza un sartén ligero, redondo y profundo que facilita métodos de cocción rápidos y con menos aceite. Este tipo de sartén es ideal para preparar salteados de verduras y hortalizas, como berenjenas, espárragos, cebolla y pimientos rojos, manteniendo sus propiedades nutritivas y sabores. 
+        p.mb-0 La cocina #[em wok] utiliza un sartén ligero, redondo y profundo que facilita métodos de cocción rápidos y con menos aceite. Este tipo de sartén es ideal para preparar salteados de verduras y hortalizas, como berenjenas, espárragos, cebolla y pimientos rojos, manteniendo sus propiedades nutritivas y sabores. 
     
     p.mt-4(data-aos="fade-right") Las tendencias arquitectónicas son: 
 
@@ -217,7 +217,7 @@
           .row.pt-lg-4
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
               h4 Propuesta integral 
-              p El diseño del local debe satisfacer simultáneamente las necesidades operativas, de servicio y de marketing, optimizando la funcionalidad y la experiencia del cliente.  
+              p El diseño del local debe satisfacer simultáneamente las necesidades operativas, de servicio y de #[em marketing], optimizando la funcionalidad y la experiencia del cliente.  
             .col-lg-5
               figure.m-auto.col-8.col-md-6.col-lg-12
                 img(src='@/assets/curso/tema2/23.png')
@@ -250,7 +250,7 @@
             figure
               img(src="@/assets/curso/tema2/27.svg")
           .col(style="place-self:center;")
-            p.mb-0 Además, algunos espacios están ambientados con un estilo hogareño y familiar, con mesas cuidadosamente dispuestas. La inclusión del “#[em show] culinario” permite que los clientes puedan observar en todo momento el proceso de elaboración de los platos que van a consumir, añadiendo un elemento de transparencia y entretenimiento al servicio.
+            p.mb-0 Además, algunos espacios están ambientados con un estilo hogareño y familiar, con mesas cuidadosamente dispuestas. La inclusión del “show culinario” permite que los clientes puedan observar en todo momento el proceso de elaboración de los platos que van a consumir, añadiendo un elemento de transparencia y entretenimiento al servicio.
     
     Separador
 
@@ -291,7 +291,7 @@
           .row.pt-lg-4
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
               h4 Capacidad 
-              p Adquirir equipos considerando la producción total durante las horas pico, con un margen adicional de 20% o 25% de capacidad.   
+              p Adquirir equipos considerando la producción total durante las horas pico, con un margen adicional de 20 % o 25 % de capacidad.   
             .col-lg-5
               figure.m-auto.col-8.col-md-6.col-lg-12
                 img(src='@/assets/curso/tema2/32.png')

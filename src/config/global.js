@@ -118,7 +118,7 @@ export default {
     {
       tema: 'Conceptos generales',
       referencia:
-        'Mise en Place. (2021). Gastronomía: Vocabulario Técnico 1. [Archivo de video] Youtube.',
+        'Mise en Place. (2021). Gastronomía: Vocabulario Técnico 1. [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=7u1fkKbRVdc&ab_channel=MiseenPlace  ',
@@ -127,14 +127,14 @@ export default {
       tema:
         'Conceptos generales para la prestación de un servicio gastronómico ',
       referencia:
-        'SENA. (2022). Servicios gastronómicos cap 1. [Archivo de video] Youtube.   ',
+        'SENA. (2022). Servicios gastronómicos cap 1. [Archivo de video] YouTube.   ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=uPYHui8X5HI&ab_channel=SENA  ',
     },
     {
       tema: 'Evolución en la prestación de un servicio gastronómico ',
       referencia:
-        'National Geographic España. (2023). Por qué la cocina fue esencial en nuestra evolución | NATIONAL GEOGRAPHIC ESPAÑA. [Archivo de video] Youtube.   ',
+        'National Geographic España. (2023). Por qué la cocina fue esencial en nuestra evolución | NATIONAL GEOGRAPHIC ESPAÑA. [Archivo de video] YouTube.   ',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=ahART85JF-c&ab_channel=NationalGeographicEspa%C3%B1a  ',
@@ -142,7 +142,7 @@ export default {
     {
       tema: 'Tendencias en la prestación de un servicio gastronómico ',
       referencia:
-        'Gabriel Lozada García. (2018). Gastronomía Molecular. [Archivo de video] Youtube. ',
+        'Gabriel Lozada García. (2018). Gastronomía Molecular. [Archivo de video] YouTube. ',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=4ZD2wK90ZRc&ab_channel=GabrielLozadaGarc%C3%ADa  ',
@@ -150,7 +150,7 @@ export default {
     {
       tema: 'Máquinas y herramientas ',
       referencia:
-        'Yolani Barahona. (2020).Utensilios y equipo de cocina. [Archivo de video] Youtube.    ',
+        'Yolani Barahona. (2020).Utensilios y equipo de cocina. [Archivo de video] YouTube.    ',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=fBDHrlf7aUw&ab_channel=YolaniBarahona  ',
@@ -158,7 +158,7 @@ export default {
     {
       tema: 'Higiene y manipulación de alimentos ',
       referencia:
-        'SENA (). Higiene y Manipulación de Alimentos Cap 04.mp4. [Archivo de video] Youtube. ',
+        'SENA (). Higiene y Manipulación de Alimentos Cap 04.mp4. [Archivo de video] YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=aeqWCTYT-qk&ab_channel=SENA  ',
     },
@@ -224,11 +224,6 @@ export default {
     },
     {
       referencia:
-        'Gálvez Herrera, I. A. (2024). Buenas prácticas en el servicio gastronómico del restaurante El Huerto del Sabor de San Juan de la Virgen.',
-      link: 'http://repositorio.untumbes.edu.pe/handle/20.500.12874/65225 ',
-    },
-    {
-      referencia:
         'Manzano-Ascanio, C. A., y Pacheco-Sánchez, C. A. (2018). Cultura gastronómica especializada: Innovación más servicios. <em>Revista Científica Profundidad Construyendo Futuro</em>, 8(8), 10–15.',
       link:
         'https://www.researchgate.net/publication/358153630_Cultura_gastronomica_especializada_innovacion_mas_servicios ',
@@ -254,8 +249,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Roberto Bernal Duque',
+          cargo: 'Experto temático',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Paola Alexandra Moya Peralta',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -264,8 +264,8 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Blanca Flor Tinoco Torres',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
@@ -273,21 +273,11 @@ export default {
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
         {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador y vinculador de recursos educativos digitales',
