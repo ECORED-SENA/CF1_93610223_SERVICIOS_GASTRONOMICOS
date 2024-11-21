@@ -167,7 +167,7 @@
                 img(src="@/assets/curso/tema2/18.png")
           .row.col-xl-11.m-auto(titulo="Nuevas técnicas de cocción")
             .col-lg-7.mb-4.mb-lg-0
-              p Se introducen técnicas como el uso del wok, que permiten la creación de platos más saludables y exóticos, manteniendo los sabores frescos y los nutrientes de los ingredientes. 
+              p Se introducen técnicas como el uso del #[i wok], que permiten la creación de platos más saludables y exóticos, manteniendo los sabores frescos y los nutrientes de los ingredientes. 
             .col-lg-5
               figure.m-auto.col-8.col-md-7.col-lg-12
                 img(src="@/assets/curso/tema2/19.png")
